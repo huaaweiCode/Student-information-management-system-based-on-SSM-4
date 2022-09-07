@@ -1,8 +1,6 @@
 # 基于SSM的学生信息管理系统（简单版）
 
-扫描下方 ，回复关键词“**学生4**”
 
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/images/%E5%85%AC%E4%BC%97%E5%8F%B7.png)
 
 ## 1、项目介绍
 
