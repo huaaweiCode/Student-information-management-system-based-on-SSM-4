@@ -42,3 +42,8 @@ Eclipse、idea和myEclipse都可以
 
 学生可以查看班级通讯录以及个人的信息，并能够对个人信息进行修改，如上图点击“提交”按钮后，便可将数据更新到数据库中。
 
+### 获取方式&视频演示
+
+下方扫一下，回复关键词：学生
+
+![gitee](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309291447341.png)
